@@ -3,11 +3,11 @@ gsap.to(".contant",{
   scrollTrigger:{
       trigger:".contant",
       scroller:"body",
-      // markers:true,
+    
       start:"top 20%",
       end:"top -60%",
 
-      // scrub:true,
+    
       pin:true
   },
   opacity:0.9

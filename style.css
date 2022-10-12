@@ -565,6 +565,8 @@ align-items: left;
         position: absolute;
         /* border: 1px solid red; */
         top: 200vh;
+    background-color:#0b1d26;
+
     }
     #img31{
         position: absolute;
@@ -606,6 +608,8 @@ align-items: left;
     .page4{
         position:absolute;
         top: 300vh;
+    background-color:#0b1d26;
+
     }
     #img41{
         position: absolute;
