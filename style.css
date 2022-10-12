@@ -247,7 +247,7 @@ align-items: left;
 #img31{
     height: 90vh;
     width: 30vw;
-    z-index: 33;
+    z-index: 99;
     object-fit: cover;
     background-position: center;
 
@@ -306,7 +306,7 @@ align-items: left;
     position: absolute;
     opacity: 0.1;
     font-weight: 900;
-    /* z-index: -2; */
+    z-index: 2;
     color: #fff;
     /* background-color: blue; */
     left: 37vw;
