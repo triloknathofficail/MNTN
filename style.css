@@ -238,6 +238,7 @@ align-items: left;
     position: absolute;
     height: 100vh;
     width: 100vw;
+    z-index: 888;
     /* border: 1px solid red; */
     top: 260vh;
     display: flex;
@@ -319,6 +320,7 @@ align-items: left;
     top: 360vh;
     height: 100vh;
     width: 100vw;
+    z-index: 888;
     /* background-color: blue; */
     display: flex;
     align-items: center;
@@ -390,6 +392,7 @@ align-items: left;
     top: 460vh;
     height: 70vh;
     width: 100vw;
+    z-index: 888;
     /* border: 1px solid red; */
     display: flex;
     align-items: center;
