@@ -7,10 +7,10 @@ gsap.to(".contant",{
       start:"top 20%",
       end:"top -60%",
 
-      scrub:true,
+      // scrub:true,
       pin:true
   },
-  opacity:0.5
+  opacity:0.9
   
 });
 
